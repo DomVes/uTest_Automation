@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e3a3545-e991-44c9-88f6-38f70985dda0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utest/automation/drivers/ChromeDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utest/automation/questions/IsLogged.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utest/automation/tasks/Register.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utest/automation/userinterface/RegisterUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/utest/automation/utils/Excel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/utest/automation/runners/RegisterRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/utest/automation/stepdefinitions/RegisterStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/register.feature" afterDir="false" />
-    </list>
+    <list default="true" id="3e3a3545-e991-44c9-88f6-38f70985dda0" name="Changes" comment="Complete register" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,6 +121,14 @@
       <option name="presentableId" value="Default" />
       <updated>1665020969787</updated>
     </task>
+    <task id="LOCAL-00001" summary="Complete register">
+      <created>1665038098273</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665038098273</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,5 +141,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Complete register" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete register" />
   </component>
 </project>
