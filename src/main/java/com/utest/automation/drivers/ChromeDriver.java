@@ -9,9 +9,9 @@ public class ChromeDriver {
     public static ChromeDriver ChromeWebDriver() {
         ChromeOptions options = new ChromeOptions();
         options.addArguments("--start-maximized");
-        options.addArguments("--ignore-certificate-errors");
-        options.addArguments("--disable-infobars");
-        options.addArguments("--allow-running-insecure-content");
+        options.addArguments("--allow-running-insecure-content --disable-popup-blocking --disable-dev-shm-usage");
+        options.addArguments("--disable-infobars --test-type --disable-extensions --disable-translate");
+        options.addArguments("--ignore-certificate-errors --incognito --disable-gpu --no-sandbox --disable-download-notification");
         driver = new org.openqa.selenium.chrome.ChromeDriver(options);
 
         return new ChromeDriver();

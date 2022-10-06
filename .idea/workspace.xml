@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e3a3545-e991-44c9-88f6-38f70985dda0" name="Changes" comment="Complete register" />
+    <list default="true" id="3e3a3545-e991-44c9-88f6-38f70985dda0" name="Changes" comment="Change .gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Data.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serenity.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/utest/automation/drivers/ChromeDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utest/automation/drivers/ChromeDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/66b16d79cf91cf4b9cbe5757445e478af39312c11601e30a4d838226130afa56.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/66b16d79cf91cf4b9cbe5757445e478af39312c11601e30a4d838226130afa56.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/66b16d79cf91cf4b9cbe5757445e478af39312c11601e30a4d838226130afa56.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/66b16d79cf91cf4b9cbe5757445e478af39312c11601e30a4d838226130afa56.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/66b16d79cf91cf4b9cbe5757445e478af39312c11601e30a4d838226130afa56_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/66b16d79cf91cf4b9cbe5757445e478af39312c11601e30a4d838226130afa56_screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-66b16d79cf91cf4b9cbe5757445e478af39312c11601e30a4d838226130afa56.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-66b16d79cf91cf4b9cbe5757445e478af39312c11601e30a4d838226130afa56.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665038098273</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Change .gitignore">
+      <created>1665038550162</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665038550162</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +161,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Complete register" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete register" />
+    <MESSAGE value="Change .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change .gitignore" />
   </component>
 </project>
