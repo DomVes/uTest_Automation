@@ -25,7 +25,7 @@ public class Register implements Task {
         try{
             actor.attemptsTo(
                     JavaScriptClick.on(RegisterUI.BTN_JOIN_US),
-                    WaitUntil.the(RegisterUI.BTN_NEXT, isVisible()),
+                    //WaitUntil.the(RegisterUI.BTN_NEXT, isVisible()),
                     Enter.theValue(excel.leerDatoExcel("Credenciales","Data.xlsx",1,0)).into(RegisterUI.TXT_FIRST_NAME),
                     Enter.theValue(excel.leerDatoExcel("Credenciales","Data.xlsx",1,1)).into(RegisterUI.TXT_LAST_NAME),
                     Enter.theValue(excel.leerDatoExcel("Credenciales", "Data.xlsx",1,2)).into(RegisterUI.TXT_EMAIL),

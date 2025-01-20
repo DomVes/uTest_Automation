@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e3a3545-e991-44c9-88f6-38f70985dda0" name="Changes" comment="Change .gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Data.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serenity.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/utest/automation/drivers/ChromeDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utest/automation/drivers/ChromeDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/utest/automation/tasks/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/utest/automation/tasks/Register.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/66b16d79cf91cf4b9cbe5757445e478af39312c11601e30a4d838226130afa56.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/66b16d79cf91cf4b9cbe5757445e478af39312c11601e30a4d838226130afa56.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/66b16d79cf91cf4b9cbe5757445e478af39312c11601e30a4d838226130afa56.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/66b16d79cf91cf4b9cbe5757445e478af39312c11601e30a4d838226130afa56.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/66b16d79cf91cf4b9cbe5757445e478af39312c11601e30a4d838226130afa56_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/66b16d79cf91cf4b9cbe5757445e478af39312c11601e30a4d838226130afa56_screenshots.html" afterDir="false" />
@@ -25,6 +25,21 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -38,6 +53,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
   <component name="ProjectId" id="2Fk0r6TAUKtzwFCjLkStdj2k966" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,8 +66,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/AUTOMATIZACIONES/choucair_utest_automation",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/MyCodes/Automatización/uTest_Automation",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
@@ -90,6 +111,7 @@
       <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
     <configuration name="RegisterRunner" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -113,6 +135,7 @@
       <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
     <recent_temporary>
